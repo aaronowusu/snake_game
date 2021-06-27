@@ -26,6 +26,7 @@ A Python GUI application designed to recreate the world-famous snake game using 
 ## Authors
 
 Aaron Owusu
+
 If you're having any kind of trouble, please feel free to contact me via aaronoseiowusu@outlook.com
 
 ## Acknowledgments
